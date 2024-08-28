@@ -10,6 +10,6 @@ Este projeto foi desenvolvido como parte do [Bootcamp Deal - Spring Boot e Angul
 - Angular 18.2.0
 
 ## Informações
--  
+ 
 - Falicitador [Fellipe Aguiar](https://www.linkedin.com/in/felipeaguiar-exe/)
 - Projeto original [GitHub](https://github.com/felipeAguiarCode/angular-psn-store-clone)
